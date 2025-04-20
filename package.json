@@ -4,8 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "^5.0.1"
+    "react-dom": "^17.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,6 +35,21 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "mocha": "^8.2.1"
-  }
+    "mocha": "^8.2.1",
+    "react-scripts": "^5.0.1"
+  },
+  "description": "- Transform arrays of data into arrays of JSX elements - Understand the need for the `key` prop and when to use it",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfred-sudo/react-hooks-lists-and-keys.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wilfred-sudo/react-hooks-lists-and-keys/issues"
+  },
+  "homepage": "https://github.com/wilfred-sudo/react-hooks-lists-and-keys#readme"
 }

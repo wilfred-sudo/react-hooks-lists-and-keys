@@ -1,10 +1,16 @@
 import React from "react";
-import ColorList from "./ColorList";
+import NavBar from "./NavBar";
+import Home from "./Home";
+import About from "./About";
 
 function App() {
   return (
     <div>
-      <ColorList />
+      <NavBar />
+      <Home />
+      <About />
+      <Project />
+
     </div>
   );
 }
